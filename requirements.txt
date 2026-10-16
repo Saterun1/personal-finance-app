@@ -1,0 +1,10 @@
+# Зависимости приложения «Учёт личных финансов».
+# Данные хранятся в Excel-книге (.xlsx), для этого нужен openpyxl.
+#
+# Установка:
+#   pip install -r requirements.txt
+#
+# Tkinter входит в состав CPython на Windows и macOS, на Linux
+# устанавливается отдельно: sudo apt install python3-tk
+
+openpyxl>=3.1

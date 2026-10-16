@@ -1,0 +1,17 @@
+# Личные финансовые данные
+transactions.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
